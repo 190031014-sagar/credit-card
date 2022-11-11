@@ -1,0 +1,7 @@
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00573-8
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+
+Pincipal component Analysis algorithm
+	PCA is an unsupervised machine learning algorithm that attempts to reduce the dimensionality (number of features) within a dataset while still retaining as much information as possible.
